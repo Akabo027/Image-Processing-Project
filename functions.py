@@ -1,6 +1,5 @@
-# Arthur Kaboré (8530422) et Kashalala David Tshiswaka (8719666)
+# Arthur Kaboré (8530422)
 # CSI4533
-# Part 2 du projet
 
 ########## Définition des fontions que nous utiliserons ###########################################################################
 
